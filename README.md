@@ -16,7 +16,7 @@ title: The service title
 The description of this service
 ```
 
-## Demo 文案链接
+## Link 文案
 好物尝鲜|羽绒只要5折！爆吼！冲呀！  
 https://mp.weixin.qq.com/s/2L7QlujxA5kdB_c5u-q_Ag  
 攻略分享|一次完整的野餐到底该准备什么？  
@@ -30,7 +30,7 @@ https://mp.weixin.qq.com/s/KBI22scOsxCdoUca8orX4w
 测评 | 2019年佛山50km徒步南海线最接地气实战测评  
 https://mp.weixin.qq.com/s/VFZK1Bxj2YDjwFFsvKeshQ
 
-## Screenshot
+## Link 视频
 ![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
 ===

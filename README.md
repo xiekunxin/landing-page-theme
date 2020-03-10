@@ -1,4 +1,4 @@
-# Landing Page Jekyll theme
+# 谢坤鑫 作品集
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
